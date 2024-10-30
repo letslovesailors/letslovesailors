@@ -1,4 +1,4 @@
-# hi :D:
+# hi :D
 I'm Letslove, a curious beginner in programming and else...
 
 
