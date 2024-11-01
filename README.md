@@ -1,4 +1,4 @@
-![Bannière de profil]()
+![Bannière de profil](https://github.com/letslovesailors/letslovesailors/blob/main/banner.png)
 
 My three major interests and passions are Dev, IT, and Music, and I believe that there is a creative fusion between all these disciplines.
 I'm a beginner so be kind please :)
